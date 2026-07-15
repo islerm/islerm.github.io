@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["U6CXJW4X8U.isler.Planthology"],
+        "appID": "U6CXJW4X8U.isler.Planthology",
+        "paths": ["/planthology-site/s/*"],
+        "components": [
+          { "/": "/planthology-site/s/*" },
+          { "/": "/planthology-site/s/" }
+        ]
+      }
+    ]
+  }
+}
